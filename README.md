@@ -1,16 +1,17 @@
-### Hi there 👋
+# Saudações aos hackers e as hackars! 👾
 
-<!--
-**0xkbyte/0xkbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
 
-Here are some ideas to get you started:
+Olá, Nerds! sou kByte, um entusiasta praticante de hacking ético dedicado a explorar o mundo da tecnologia. Meu foco está em testar sistemas, investigar páginas web e analisar softwares.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Minha abordagem é impulsionada pela curiosidade, sem fixar exclusivamente a uma tecnologia. Prefiro explorar o que me intriga nessa jornada de aprendizado.
+
+## Habilidades
+
+- Exploração em Programação Assembly e Computação de Baixo Nível
+- Desenvolvimento Web em Diversas Tecnologias
+- Análise de Malware: Investigação e... hmm... reversão🤷?
+- Hacking em Dispositivos IoT
+
+
+vamos explorar o imenso unverso do hacking! 🚀
